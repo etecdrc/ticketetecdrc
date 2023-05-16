@@ -14,11 +14,10 @@
  - Avaliação do Atendimento  
 
 ## Atendente 
- - Criação / Abertura 
+ - Cadastro 
  - Consulta
- - Atendimento
- - Desisteência
- - Avaliação do Atendimento  
+ - Alteração
+ - Inativação
 
 ## Cliente 
  - Cadastro 
